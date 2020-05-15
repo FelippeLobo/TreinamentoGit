@@ -1,0 +1,15 @@
+.card{
+    margin-top: 26px;
+}
+.h1-titulo{
+  
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.div-img-commit{
+    text-align: center;
+
+}
+.img-commit{
+    border-radius: 15%;
+}
