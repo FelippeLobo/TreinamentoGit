@@ -1,4 +1,15 @@
-1. Bolinho de Miojo
+.card{
+    margin-top: 26px;
+}
+.h1-titulo{
+  
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.div-img-commit{
+    text-align: center;
 
-bolinho_miojo_sossolteiros_jpg
-A parte mais deliciosa desse bolinho é que você pode comer 16 unidades assim, sem parar, com uma única receita. E é tudo muito simples. Basta você preparar o miojo, misturar a batata cozida amassada, adicionar salame, parmesão e mussarela, empanar e colocar para fritar.
+}
+.img-commit{
+    border-radius: 15%;
+}
