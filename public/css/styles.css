@@ -2,18 +2,14 @@
     margin-top: 26px;
 }
 .h1-titulo{
+  
     text-align: center;
-    color:blue;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 .div-img-commit{
-
-    background-color: black;
-
     text-align: center;
 
 }
 .img-commit{
-
     border-radius: 15%;
 }
